@@ -9,7 +9,7 @@ $projects = [
     "tags" => ["HTML", "CSS", "JavaScript", "PHP"]
   ],
   [
-    "image" => "images/home.png", 
+    "image" => "images/home4.png", 
     "title" => "Cooperative Bank Web App", 
     "description" => "A secure banking web application for cooperatives with features like account management, transfers, and loan tracking.",
     "category" => "web",
